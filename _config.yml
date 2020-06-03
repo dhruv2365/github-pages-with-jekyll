@@ -1,3 +1,4 @@
+theme: minima
 title: Console Gaming
 author: dhruv2365
 email: dhruv2365@gamil.com
@@ -8,4 +9,4 @@ twitter_username: dhruv2365 # DO NOT include the @ character, or else the build 
 github_username:  dhruv2365 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme: minima
+
